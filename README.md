@@ -4,7 +4,7 @@ oss
 
 
 
-파일 내용 수정
+hello.py를 실행 시
 
-
+hello myrepo를 출력
 
